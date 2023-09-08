@@ -41,6 +41,6 @@ UnOYOQKBgFbGuU+Sz1iFGvNY2gR6n01+sDS5czSvI03VdGqWQfwCECd9Z9BufvgW
 zu0XvwfiLL0sDCfHPRp5DiohvJg8Hxy7FyYCwecL7kftVw044PQoUE31NiZiSwF/
 HbfHBsujfW4yIS9uraQ4YVsyRMk5mVM17J88ZVo8XL/cebeBp3iD
 -----END RSA PRIVATE KEY-----`,
-  accessTokenTtl: "-1",
+  accessTokenTtl: "1h",
   refreshTokenTtl: "1y"
 }
